@@ -1,1 +1,1 @@
-# cnds
+# cdns
